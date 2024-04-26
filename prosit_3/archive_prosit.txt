@@ -1,0 +1,6 @@
+sudo apt-get install build-essential
+# entre mdp -- cesi
+# je vais dans le rep et je tape :
+gcc -main.c -o prog
+
+sudo prog& // le seul qui me fait pas peter une erreur
